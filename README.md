@@ -1,12 +1,11 @@
 Full Time student at Cal Poly Pomona studing **_Mechanical Engineering_** 
-- Currently looking for work/internships this upcoming summer.
+- Currently looking for work/internships this upcoming summer. 
 
-- I have experience writing in MATLAB and VBA.
+- Check out my [Handshake]((https://cpp.joinhandshake.com/profiles/40766100)) and [LinkedIn](https://www.linkedin.com/in/edward-rugamas-8ba93524b/)
+
+- 😎 I have experience writing in MATLAB and VBA.
 - 🌱 I’m currently learning: **C++**
--  Pronouns: **he/him**
-- Reach out to me: 
-- [My LinkedIn](https://www.linkedin.com/in/edward-rugamas-8ba93524b/)
-- Email me: edward@rugamas.com
+- Pronouns: **he/him**
 - Add my discord: edurl
 
  <!---
