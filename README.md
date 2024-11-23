@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erugamas
 - 👀 I’m interested in **food.**
 - 🌱 I’m currently learning: **C++**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on **a super secret project.**
 - 📫 How to reach me: earugamas@cpp.edu
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I am VERY new.** (I have no idea what I'm necesarily doing.")
